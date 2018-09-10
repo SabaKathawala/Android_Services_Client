@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ClientApplication</string>
+    <string name="create">Create Database</string>
+    <string name="query">Query Database</string>
+    <string name="welcome">Hi. Click on Create Database to create the database. Once created, you can query the database.</string>
+    <string name="year_label">Year</string>
+    <string name="month_label">Month</string>
+    <string name="range_label">Range</string>
+    <string name="date_label">Date</string>
+    <string name="result">The Federal Government of the US had following amount on hand in the specified range of working days.</string>
+    <string name="cash_label">Cash</string>
+    <string name="day_of_week_label">Day of Week</string>
+
+    <string-array name="year">
+        <item>2017</item>
+        <item>2018</item>
+    </string-array>
+</resources>
